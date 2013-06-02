@@ -3,3 +3,12 @@ deps
 *.o
 *.beam
 *.plt
+*~
+rel/eqq/
+#*.*#
+#*#
+.*
+Mnesia.*
+erl_crash.dump
+log/
+ebin
