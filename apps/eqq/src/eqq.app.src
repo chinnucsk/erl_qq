@@ -1,0 +1,12 @@
+{application, eqq,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { eqq_app, []}},
+  {env, []}
+ ]}.
